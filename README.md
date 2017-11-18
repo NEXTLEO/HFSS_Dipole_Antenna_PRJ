@@ -1,2 +1,4 @@
 # HFSS_Dipole_Antenna_PRJ
-HFSS_Dipole_Antenna_PRJ for Dipole Antenna simulation.
+
+DISCRIPTION: Dipole Antenna Simulation, 
+TOOL: ANSYS Electronics Desktop 18.2.0.
